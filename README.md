@@ -71,6 +71,7 @@
 <b>Используемые объекты:</b> <br/>
 <pre>
 vector< pair < int, int > > points
+struct
 </pre>
 
 <hr />

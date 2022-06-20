@@ -70,7 +70,7 @@
 
 <b>Используемые объекты:</b> <br/>
 <pre>
-vector<pair <int, int>> points
+vector< pair < int, int > > points
 </pre>
 
 <hr />
